@@ -1,4 +1,4 @@
-# Add a MultiSelect Dropdown to a Blazor WebAssembly App
+# How to Filter and Group MultiSelect Dropdown Items
 
 A quick start Blazor project that shows how to group the Blazor MultiSelectDropdown items as well as how to filter them.
 
